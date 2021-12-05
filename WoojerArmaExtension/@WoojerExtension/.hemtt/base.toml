@@ -1,0 +1,10 @@
+name = "Woojer Extension"
+prefix = "woojer"
+author = "GrueArbre, see https://github.com/jetelain/cTab"
+template = "cba"
+mainprefix = "z"
+folder_optionals = true
+sig_version = 3
+files = [
+    "mod.cpp"
+]
